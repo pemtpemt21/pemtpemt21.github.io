@@ -1,0 +1,8 @@
+# 면세점 쇼핑 추천
+
+> 면세점 카테고리 인기 상품을 가격·평점·리뷰 기준으로 큐레이션하는 추천 블로그입니다.
+
+## 콘텐츠
+- [전체 글 목록 (Sitemap)](https://pemtpemt21.github.io/sitemap.xml)
+- [RSS 피드](https://pemtpemt21.github.io/index.xml)
+- [상품 추천 글 목록](https://pemtpemt21.github.io/posts/)
