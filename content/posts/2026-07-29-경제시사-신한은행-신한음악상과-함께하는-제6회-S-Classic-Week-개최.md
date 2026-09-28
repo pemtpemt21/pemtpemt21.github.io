@@ -13,6 +13,9 @@ cover:
   alt: "신한은행, 신한음악상과 함께하는 제6회 'S Classic Week' 개최"
   relative: false
 images: ["https://img.yna.co.kr/etc/inner/KR/2026/07/29/AKR20260729091200002_01_i_P2.jpg"]
+robotsNoIndex: true
+sitemap:
+  disable: true
 ---
 
 <p><img src="https://img.yna.co.kr/etc/inner/KR/2026/07/29/AKR20260729091200002_01_i_P2.jpg" alt="신한은행, 신한음악상과 함께하는 제6회 'S Classic Week' 개최" style="max-width:100%;border-radius:8px;"></p>
