@@ -1,13 +1,14 @@
 ---
-title: "면세점 지갑 추천 추천 TOP10 — 보이제 CaecnKoen 남자 반지갑 장지갑 남성용 지"
+title: "루이비통 면세점 지갑 추천 TOP10 — 2026년 5월 기준"
 date: 2026-05-27T10:20:05+09:00
+lastmod: 2026-10-13
 draft: false
 categories: ["shopping"]
 tags: ["Top10", "shopping", "면세점 지갑 추천"]
 keywords: ["면세점 지갑 추천", "Top10", "shopping"]
 author: "pemtpemt21"
-description: "면세점 지갑 추천 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 면세점 지갑은 합리적인 가격대에 프리미엄 품질을 찾는 분들에게 최고의 선택입니다. 오늘은 스타일과 기능성을 모두 갖춘 추천 지갑 3가지를 소개합니다. 내구성 있는 소재와…"
-summary: "면세점 지갑 추천 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 면세점 지갑은 합리적인 가격대에 프리미엄 품질을 찾는 분들에게 최고의 선택입니다. 오늘은 스타일과 기능성을 모두 갖춘 추천 지갑 3가지를 소개합니다. 내구성 있는 소재와…"
+description: "루이비통 면세점 지갑 추천 TOP10 (2026년 5월). 가격·평점·로켓배송 비교를 정리했습니다."
+summary: "루이비통 면세점 지갑 추천 TOP10 (2026년 5월). 가격·평점·로켓배송 비교를 정리했습니다."
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/d224/2c8e7842eaa56cea84632cc7c63b2f9223690a7178782014e1e6093aa017.jpg"
   alt: "면세점 지갑 추천 추천 TOP10 — 보이제 CaecnKoen 남자 반지갑 장지갑 남성용 지"
